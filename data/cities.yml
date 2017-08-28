@@ -1,0 +1,9 @@
+barcelona:
+  name: "Barcelona"
+  description: "Very cool city, the best"
+berlin:
+  name: "Berlin"
+  description: "Very cool city, the best"
+paris:
+  name: "Paris"
+  description: "Very cool city, the best"
